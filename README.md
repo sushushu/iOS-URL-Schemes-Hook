@@ -16,9 +16,50 @@
 - **微信生态**：完美支持微信授权、支付、分享等所有跳转场景
 - **支付生态**：全面支持微信支付、支付宝、抖音支付等主流支付方式
 - **电商生态**：兼容淘宝、京东、拼多多等电商应用的支付跳转
-- **内容平台**：支持抖音、快手、小红书等内容平台的支付和授权
+- **内容平台**：支持抖音、快手、小红书等内容平台的支付和授权(小红书一键发笔记)
 - **QQ生态**：支持QQ登录、QQ空间分享等完整流程
 - **第三方应用**：兼容所有使用URL Scheme的应用
+
+xhsdiscover://account/bind/’,//账号与安全
+xhsdiscover://choose_share_user’,//分享给用户
+xhsdiscover://dark_mode_setting/’,//深色设置
+xhsdiscover://video_feed/id’,//视频作品页
+xhsdiscover://general_setting/’,//通用设置
+xhsdiscover://hey_home_feed/’,//记录我的日常
+xhsdiscover://hey_post/’,//发布语音
+xhsdiscover://home’,//主页
+xhsdiscover://home/explore’,//发现列表
+xhsdiscover://home/follow’,//关注列表
+xhsdiscover://home/localfeed’,//同城列表
+xhsdiscover://home/note’,//关注列表
+xhsdiscover://home/store’,//商城
+xhsdiscover://instore_search/result’,//商品搜索
+xhsdiscover://instore_search/result?keyword=’,//商品搜索关键词
+xhsdiscover://item/id’, //文字作品页
+xhsdiscover://item/id?type=normal’, //文字作品页
+xhsdiscover://item/id?type=video’,//视频作品页
+xhsdiscover://search/result?keyword=’,//搜索关键词
+xhsdiscover://me/profile’,//编辑资料
+xhsdiscover://message/collections’,//收到的赞和收藏
+xhsdiscover://message/comments’,//收到的评论和@
+xhsdiscover://message/followers’,//新增关注
+xhsdiscover://message/notifications’,//系统通知
+xhsdiscover://message/strangers/’,//陌生人消息
+xhsdiscover://messages’,//消息
+xhsdiscover://notification_setting/’,//通知设置
+xhsdiscover://post’,//发布作品-相册
+xhsdiscover://post_note’,//发布笔记
+xhsdiscover://post_video’,//发布视频
+xhsdiscover://post_video_album’,//发布视频-全部相册
+xhsdiscover://profile’,//我的个人页面
+xhsdiscover://instore_search/recommend’,//商品搜索
+xhsdiscover://recommend/contacts’,//通讯录好友
+xhsdiscover://recommend/user’,//推荐用户
+xhsdiscover://search/result’,//搜索
+xhsdiscover://store’,//商城
+xhsdiscover://system_settings/’,//开发者模式,可以修改登陆账号
+xhsdiscover://topic/v2/keyword’,//话题
+xhsdiscover://user/user_id’, //用户主页
 
 ## 🚀 技术优势
 
