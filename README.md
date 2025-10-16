@@ -1,4 +1,3 @@
-# iOS-URL-Schemes-Hook
 
 # URL Hunter - iOS深度链接监控专家
 
@@ -170,19 +169,19 @@
 - 支持多种数据格式输出（JSON、XML等）
 - 完整的错误处理和日志记录
 
-### 📞 技术支持
-- 专业的技术支持团队
-- 详细的部署文档和故障排除指南
-- 持续的产品更新和功能优化
 
-## 🏆 为什么选择URL Hunter？
+###  联系方式
 
-1. **技术领先**：基于iOS系统底层Hook，技术门槛高，竞争对手少
-2. **功能完整**：覆盖所有URL跳转场景，一站式解决方案
-3. **稳定可靠**：经过大量测试验证，长期稳定运行
-4. **易于集成**：简单的API接口，快速集成到现有系统
-5. **持续更新**：紧跟iOS系统更新，确保长期兼容性
+- 飞机：@iosre123
+  
+<img width="1720" height="748" alt="image" src="https://github.com/user-attachments/assets/62c29417-865f-4002-9ae0-f6678d853978" />
 
----
 
-**立即体验URL Hunter，开启iOS深度链接监控的新时代！**
+<img width="1704" height="1490" alt="image" src="https://github.com/user-attachments/assets/f2213177-ef35-4ca9-996b-0db8be7ff834" />
+
+
+<img width="1780" height="1530" alt="image" src="https://github.com/user-attachments/assets/42f2abd5-ecf4-4e2b-9401-a7b6a596b504" />
+
+<img width="1912" height="1382" alt="image" src="https://github.com/user-attachments/assets/08d93bd2-2e2c-41c9-98af-440291bb42d3" />
+
+
